@@ -9,6 +9,7 @@ Study groups are a great casual way to get people from your field together to sh
  - Meet once or twice a month
  - Meetings should be at *most* one hour long
  - Grab a room in your department and welcome everyone to join in (no experience necessary!)
+ - Have one person lead the participants through some examples of using the tool of the day.
  
 ### What is a Study Group Lesson Like?
 
