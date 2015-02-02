@@ -9,6 +9,7 @@ Study groups are a great casual way to get people from your field together to sh
  - Meet once or twice a month
  - Meetings should be at *most* one hour long
  - Grab a room in your department and welcome everyone to join in (no experience necessary!)
+ - Have one person lead the participants through some examples of using the tool of the day.
  
 ### What is a Study Group Lesson Like?
 
@@ -25,4 +26,4 @@ Have a look in the template directory of this repository for some more details.
 
 Contributing a study group lesson here is simple - just copy the `template` directory, give it a descriptive name, and fill out the `lesson.md` file with your lesson. Be sure to include lots of problems for students to work on, and put any examples or data they'll need in the same directory.
 
-**Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open an issue and we'll help get you included.
+**Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
