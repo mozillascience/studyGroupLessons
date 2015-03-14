@@ -27,3 +27,10 @@ Have a look in the template directory of this repository for some more details.
 Contributing a study group lesson here is simple - just copy the `template` directory, give it a descriptive name, and fill out the `lesson.md` file with your lesson. Be sure to include lots of problems for students to work on, and put any examples or data they'll need in the same directory.
 
 **Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
+
+### Check Out Our Friends!
+
+There are groups that have been meeting & sharing their work for some time now - here are a few great examples, each with their own content you can remix & reuse:
+
+ - [Davis R User's Group](http://www.noamross.net/davis-r-users-group.html#d-rug-tutorials-from-our-meetings) - R lessons, often ecology focused.
+ - [Data Science Hobart](https://datasciencehobart.wordpress.com/)
