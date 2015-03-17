@@ -8,9 +8,7 @@
         "coordinates": [-123.24599,49.26061] 
       },
       "properties": {
-        "marker-symbol": "bar",
-        "name": "The Exchange",
-        "address": "1719 G St NW"
+        "marker-symbol": "chemist"
       }
     }
   ]
