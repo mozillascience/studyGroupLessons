@@ -2,6 +2,9 @@
 
 Let's build a collection of introductory lessons for short tutorials on scientific coding and data management people can deliver to a study group in their labs and departments.
 
+### Where We Are
+<script src='https://embed.github.com/mozillascience/studyGroupLessons/blob/master/whereWeAre.geojson'></script>
+
 ### What's a Study Group and How do I Start One?
 
 Study groups are a great casual way to get people from your field together to share their skills in computing and data management, in a relaxed, no-pressure environment with friends and colleagues. The goal should be to help everyone get some hands-on practice with a new idea or tool they can use in their every-day research. A simple formula:
