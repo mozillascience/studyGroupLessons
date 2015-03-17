@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [49.260794, -123.246015]
+        "coordinates": [
+          49.260794,
+          -123.246015
+        ]
       },
       "properties": {
         "marker-symbol": "bar",
