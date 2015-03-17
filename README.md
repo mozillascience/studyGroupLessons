@@ -3,6 +3,7 @@
 Let's build a collection of introductory lessons for short tutorials on scientific coding and data management people can deliver to a study group in their labs and departments.
 
 ### Where We Are
+
 <script src='https://embed.github.com/view/mozillascience/studyGroupLessons/master/whereWeAre.geojson'></script>
 
 ### What's a Study Group and How do I Start One?
