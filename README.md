@@ -34,3 +34,4 @@ There are groups that have been meeting & sharing their work for some time now -
 
  - [Davis R User's Group](http://www.noamross.net/davis-r-users-group.html#d-rug-tutorials-from-our-meetings) - R lessons, often ecology focused.
  - [Data Science Hobart](https://datasciencehobart.wordpress.com/)
+ - [Git-It](https://github.com/jlord/git-it) - a terminal-based workshop for learning Git.
