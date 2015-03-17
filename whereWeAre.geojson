@@ -8,7 +8,9 @@
         "coordinates": [-123.24599,49.26061] 
       },
       "properties": {
-        "marker-symbol": "chemist"
+        "marker-symbol": "chemist",
+        "name": "UBC Earth & Ocean Science",
+        "address": "http://www.mozillascience.org/coding-study-groups-are-great-but-how-to-start"
       }
     }
   ]
