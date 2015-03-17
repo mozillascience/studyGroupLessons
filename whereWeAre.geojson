@@ -4,11 +4,8 @@
     {
       "type": "Feature",
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.245983,
-          38
-        ]
+        "type": "Point", 
+        "coordinates": [-123.24599,49.26061] 
       },
       "properties": {
         "marker-symbol": "bar",
