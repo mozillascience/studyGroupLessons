@@ -12,6 +12,30 @@
         "name": "UBC Earth & Ocean Science",
         "website": "<a href='http://www.mozillascience.org/coding-study-groups-are-great-but-how-to-start'>UBC EOS</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point", 
+        "coordinates": [147.50296,-41.88776]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Hobart DaSH",
+        "website": "<a href='https://datasciencehobart.wordpress.com/'>DaSH - Data Science Hobart</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-121.45203,38.55100] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "D-RUG (Davis R User's Group)",
+        "website": "<a href='http://www.noamross.net/davis-r-users-group.html#d-rug-tutorials-from-our-meetings'>D-RUG - Davis R User's Group</a>"
+      }
     }
   ]
 }
