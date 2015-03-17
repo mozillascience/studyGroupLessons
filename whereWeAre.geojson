@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.260794, -123.246015]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "UBC Earth & Ocean Science"
+      }
+    }
+  ]
+}
