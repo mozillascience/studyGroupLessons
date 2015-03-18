@@ -16,6 +16,8 @@ Study groups are a great casual way to get people from your field together to sh
 
 Study groups are springing up all over the world! Check out the [map of Study Groups](https://github.com/mozillascience/studyGroupLessons/blob/master/whereWeAre.geojson), see if there's one near you, or add your own by sending us a pull request (add yourself to `whereWeAre.geojson`, link required!), or open an issue and we'll add you.
 
+For help getting your longitude and lattitude pre-formatted in geojson, find yourself on [this awesome web app](http://dbsgeo.com/latlon/)
+
 ### What is a Study Group Lesson Like?
 
 A good study group lesson should be a tutorial that's *as hands on as possible* - an hour-long lecture just doesn't have the same effect. To create a successful tutorial, keep the following in mind:
