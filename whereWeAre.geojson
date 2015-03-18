@@ -57,8 +57,19 @@
       },
       "properties": {
         "marker-symbol": "chemist",
-        "name": "Melbourne Hacky Hour",
+        "name": "Univ. Melbourne Hacky Hour",
         "website": "<a href='http://melbourne.resbaz.edu.au/hackyhour'>Melbourne Hacky Hour</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [144.94530,-37.81477] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Bureau of Meteorology (Melbourne) Hacky Hour"
       }
     }
   ]
