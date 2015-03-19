@@ -18,6 +18,8 @@ Study groups are springing up all over the world! Check out the [map of Study Gr
 
 For help getting your longitude and lattitude pre-formatted in geojson, find yourself on [this awesome web app](http://dbsgeo.com/latlon/)
 
+<script src="https://embed.github.com/view/geojson/mozillascience/studyGroupLessons/master/whereWeAre.geojson"></script>
+
 ### What is a Study Group Lesson Like?
 
 A good study group lesson should be a tutorial that's *as hands on as possible* - an hour-long lecture just doesn't have the same effect. To create a successful tutorial, keep the following in mind:
