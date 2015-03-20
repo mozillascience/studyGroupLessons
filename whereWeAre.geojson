@@ -71,6 +71,15 @@
         "marker-symbol": "chemist",
         "name": "Bureau of Meteorology (Melbourne) Hacky Hour"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [18.46120,-33.95765] },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Cape R User's Group"
+        "website": "https://caperuser.wordpress.com/"
+      }
     }
   ]
 }
