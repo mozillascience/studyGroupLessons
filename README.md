@@ -45,3 +45,4 @@ There are groups that have been meeting & sharing their work for some time now -
  - [Data Science Hobart](https://datasciencehobart.wordpress.com/)
  - [Git-It](https://github.com/jlord/git-it) - a terminal-based workshop for learning Git.
  - [Cape R User's Group](https://caperuser.wordpress.com/) in Cape Town, South Africa
+ - [US EPA R Training](http://usepa.github.io/introR/) led by @jhollist
