@@ -9,8 +9,7 @@ The lesson outlines some simple techniques for mapping in Python using the
 Matplotlib Basemap Toolkit.
 
 **Resources**
-* https://peak5390.wordpress.com/2012/12/08/matplotlib-basemap-tutorial-making-a
--simple-map/
+* https://peak5390.wordpress.com/2012/12/08/matplotlib-basemap-tutorial-making-a-simple-map/
 * http://matplotlib.org/basemap/index.html
 * https://basemaptutorial.readthedocs.org/en/latest/
 
@@ -265,7 +264,7 @@ Add meridians and parallels with labels.
 * in drawmeridian() and drawparallels() setting labels =[1,0,0,1] adds labels on
 the left and bottom axis.
 
-
+```
     fig = plt.figure(figsize=(10,10))
     map = Basemap(projection='merc', lat_0=49, lon_0=-123,
         resolution = 'h', area_thresh = 0.1,
@@ -282,7 +281,7 @@ the left and bottom axis.
     ####
     
     plt.show()
-
+```
 
 ![png](lesson_files/lesson_30_0.png)
 
@@ -329,6 +328,9 @@ the Basemap class instance.
 
     431358.275813 380466.053658
     
+
+
+Now add it to the plot.
 
 
     fig = plt.figure(figsize=(10,10))
@@ -404,9 +406,10 @@ stored in a file called traj.txt. We will load this data using pandas.
 
 Note: details on the ocean model that generate this trajectory can be found
 here:
+
 * http://salishsea.eos.ubc.ca/nemo/index.html
 
-
+```
     import pandas as pd
     
     fname = 'traj.txt'
@@ -416,11 +419,11 @@ here:
     lats=np.array(data['lat'])
     
     print lons, lats
-
     [-123.25558 -123.23922 -123.18216 -123.39746 -123.69411 -123.96874
      -124.17054 -124.33354 -124.394   -124.46454] [ 48.61595  48.59781  48.36028  48.30912  48.27558  48.35421  48.4103
       48.47167  48.50298  48.51483]
-    
+```
+
 
 ### Challenge
 
