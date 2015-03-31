@@ -26,11 +26,11 @@ To get started, load some useful libraries, including matplotlib.pyplot, numpy
 and Basemap.
 
 ```
-    from mpl_toolkits.basemap import Basemap
-    import matplotlib.pyplot as plt
-    import numpy as np
-    
-    %matplotlib inline
+from mpl_toolkits.basemap import Basemap
+import matplotlib.pyplot as plt
+import numpy as np
+
+%matplotlib inline
 ```
 
 Create a Basemap class instance. This object has access to a bunch of functions
