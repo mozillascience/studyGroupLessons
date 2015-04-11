@@ -53,7 +53,7 @@
       "type": "Feature",
       "geometry": { 
         "type": "Point", 
-        "coordinates": [-123.24997,49.26747] 
+        "coordinates": [-123.25791,49.26834]  
       },
       "properties": {
         "marker-symbol": "chemist",
