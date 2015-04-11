@@ -45,6 +45,18 @@
       },
       "properties": {
         "marker-symbol": "chemist",
+        "name": "UBC R Study Group",
+        "website": "<a href='http://minisciencegirl.github.io/studyGroup/'>Vancouver Hacky Hour</a>"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-123.24997,49.26747] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
         "name": "Vancouver Hacky Hour",
         "website": "<a href='http://forum.mozillascience.org/t/vancouver-hacky-hour-meetup/195'>Vancouver Hacky Hour</a>"
       }
