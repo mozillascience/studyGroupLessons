@@ -33,7 +33,7 @@ Contributing a study group lesson here is simple - just copy the `template` dire
 
 **Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
 
-**Don't have a local Mozilla Study Group?** That's also ok! We're collecting and sharing lessons from everyone who would like to write one. And if you'd like to start your own Mozilla Study Group, don't miss the [how-to guide](http://mozillascience.github.io/studyGroupHandbook/).
+**Don't have a local Mozilla Study Group?** That's also ok! We're collecting and sharing lessons from everyone who would like to write one, whether they are involved with a Mozilla Study Group or not. And if you'd like to start your own Mozilla Study Group, don't miss the [how-to guide](http://mozillascience.github.io/studyGroupHandbook/).
 
 ### Check Out Our Friends!
 
