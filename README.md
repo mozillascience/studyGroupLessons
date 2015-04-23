@@ -1,12 +1,12 @@
-# Study Group Lessons
+# Mozilla Study Group Lessons
 
 Let's build a collection of introductory lessons for short tutorials on scientific coding and data management people can deliver to a study group in their labs and departments.
 
-### What's a Study Group and How do I Start One?
+### What's a Mozilla Study Group and How do I Start One?
 
-Study groups are a great casual way to get people from your field together to share their skills in computing and data management, in a relaxed, no-pressure environment with friends and colleagues, and to create a space where it's okay to ask any question you like. The goal should be to help everyone get some hands-on practice with a new idea or tool they can use in their every-day research, and support each other as we learn.
+Mozilla Study Groups are a great casual way to get people from your field together to share their skills in computing and data management, in a relaxed, no-pressure environment with friends and colleagues, and to create a space where it's okay to ask any question you like. The goal should be to help everyone get some hands-on practice with a new idea or tool they can use in their every-day research, and support each other as we learn.
 
-Want to start your own? Check out our [how to guide](http://mozillascience.github.io/studyGroupHandbook/), and our quick-start [Study Group website kit](https://github.com/mozillascience/studyGroup).
+Want to start your own? Check out our [how to guide](http://mozillascience.github.io/studyGroupHandbook/), and our quick-start [Mozilla Study Group website kit](https://github.com/mozillascience/studyGroup).
  
 ### Where We Are
 
@@ -18,7 +18,7 @@ For help getting your longitude and lattitude pre-formatted in geojson, find you
 
 ### What is a Study Group Lesson Like?
 
-A good study group lesson should be a tutorial that's *as hands on as possible* - an hour-long lecture just doesn't have the same effect. To create a successful tutorial, keep the following in mind:
+A good Study Group lesson should be a tutorial that's *as hands on as possible* - an hour-long lecture just doesn't have the same effect. To create a successful tutorial, keep the following in mind:
 
  - Give participants challenge questions to try out their new skills as often as possible; never lecture for more than five minutes at a stretch.
  - Go as slow as the participants need; never rush to get through all the material.
@@ -32,6 +32,8 @@ Have a look in the template directory of this repository for some more details.
 Contributing a study group lesson here is simple - just copy the `template` directory, give it a descriptive name, and fill out the `lesson.md` file with your lesson. Be sure to include lots of problems for students to work on, and put any examples or data they'll need in the same directory.
 
 **Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
+
+**Don't have a local Mozilla Study Group?** That's also ok! We're collecting and sharing lessons from everyone who would like to write one. And if you'd like to start your own Mozilla Study Group, don't miss the [how-to guide](http://mozillascience.github.io/studyGroupHandbook/).
 
 ### Check Out Our Friends!
 
