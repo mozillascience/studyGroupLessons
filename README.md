@@ -37,10 +37,4 @@ Contributing a study group lesson here is simple - just copy the `template` dire
 
 ### Check Out Our Friends!
 
-There are groups that have been meeting & sharing their work for some time now - here are a few great examples, each with their own content you can remix & reuse:
-
- - [Davis R User's Group](http://www.noamross.net/davis-r-users-group.html#d-rug-tutorials-from-our-meetings) - R lessons, often ecology focused.
- - [Data Science Hobart](https://datasciencehobart.wordpress.com/)
- - [Git-It](https://github.com/jlord/git-it) - a terminal-based workshop for learning Git.
- - [Cape R User's Group](https://caperuser.wordpress.com/) in Cape Town, South Africa
- - [US EPA R Training](http://usepa.github.io/introR/) led by [@jhollist](https://github.com/jhollist)
+There are groups that have been meeting & sharing their work for some time now - check out the [list in the Mozilla Study Group Handbook](http://mozillascience.github.io/studyGroupHandbook/lessons.html#lessons), and send us your own if you'd like us to help share your work.
