@@ -12,7 +12,7 @@ Want to start your own? Check out our [how to guide](http://mozillascience.githu
 
 People are starting coding meetups for scientists and reseatchers around the world, both with us and on their own. Check out the [map of Study Groups](https://github.com/mozillascience/studyGroupLessons/blob/master/whereWeAre.geojson), see if there's one near you, or add your own by sending us a pull request (add yourself to `whereWeAre.geojson`, link required!), or open an issue and we'll add you.
 
-For help getting your longitude and lattitude pre-formatted in geojson, find yourself on [this awesome web app](http://dbsgeo.com/latlon/)
+For help getting your longitude and lattitude pre-formatted in geojson, find yourself on [this awesome web app](http://dbsgeo.com/latlon/).
 
 <script src="https://embed.github.com/view/geojson/mozillascience/studyGroupLessons/master/whereWeAre.geojson"></script>
 
