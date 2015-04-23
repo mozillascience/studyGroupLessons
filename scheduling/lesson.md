@@ -1,4 +1,4 @@
-#My Lesson Title
+#Scheduling in the Bash Shell
 
  - **Authors**: Susan Allen
  - **Research field**: Earth & Ocean Science
