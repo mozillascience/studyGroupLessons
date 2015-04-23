@@ -4,7 +4,100 @@
     {
       "type": "Feature",
       "geometry": {
+<<<<<<< HEAD
         "type": "Point", "coordinates": [-123.24599,49.26061] 
+=======
+        "type": "Point", 
+        "coordinates": [-123.24599,49.26061] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "UBC Earth & Ocean Science",
+        "website": "<a href='http://www.mozillascience.org/coding-study-groups-are-great-but-how-to-start'>UBC EOS</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [147.33580,-42.88620] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Hobart DaSH",
+        "website": "<a href='https://datasciencehobart.wordpress.com/'>DaSH - Data Science Hobart</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-121.761787, 38.538450] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "D-RUG (Davis R User's Group)",
+        "website": "<a href='http://www.noamross.net/davis-r-users-group.html'>D-RUG - Davis R User's Group</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-123.24997,49.26747] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Vancouver R Study Group",
+        "website": "<a href='http://minisciencegirl.github.io/studyGroup/'>Vancouver R Study Group</a>"
+      }
+    },
+        {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-123.25791,49.26834]  
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Vancouver Hacky Hour",
+        "website": "<a href='http://forum.mozillascience.org/t/vancouver-hacky-hour-meetup/195'>Vancouver Hacky Hour</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [144.96324,-37.79967] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Univ. Melbourne Hacky Hour",
+        "website": "<a href='http://melbourne.resbaz.edu.au/hackyhour'>Melbourne Hacky Hour</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [144.94530,-37.81477] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Bureau of Meteorology (Melbourne) Hacky Hour"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [18.46120,-33.95765] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "name": "Cape R User's Group",
+        "website": "<a href='https://caperuser.wordpress.com/'>Cape R User's Group</a>"
+>>>>>>> d2cab9d92bec952239bd086f848267a40e09e2da
       }
     }
   ]
