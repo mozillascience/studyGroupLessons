@@ -4,9 +4,6 @@
     {
       "type": "Feature",
       "geometry": {
-<<<<<<< HEAD
-        "type": "Point", "coordinates": [-123.24599,49.26061] 
-=======
         "type": "Point", 
         "coordinates": [-123.24599,49.26061] 
       },
@@ -97,7 +94,6 @@
         "marker-symbol": "chemist",
         "name": "Cape R User's Group",
         "website": "<a href='https://caperuser.wordpress.com/'>Cape R User's Group</a>"
->>>>>>> d2cab9d92bec952239bd086f848267a40e09e2da
       }
     }
   ]
