@@ -45,6 +45,7 @@
       },
       "properties": {
         "marker-symbol": "chemist",
+        "marker-color": #FBA026
         "name": "Vancouver R Study Group",
         "website": "<a href='http://minisciencegirl.github.io/studyGroup/'>Vancouver R Study Group</a>"
       }
