@@ -144,25 +144,25 @@ awk -F/ '{ if (NR > 1) print $3}' earthquakes.dat
 We can define additional field separators:
 
 ```
-awk '{FS="[/ :]"}{if (NR > 1) print $3}' earthquakes.dat
+awk '-F[/ :]+' '{if (NR > 1) print $3}' earthquakes.dat
 ```
 
 Which lets us find the days with volcanic earthquakes:
 
 ```
-awk '{FS="[/ :]"}{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat
+awk '-F[/ :]+' '{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat
 ```
 
 and remove duplicates in the list using `awk`:
 
 ```
-awk '{FS="[/ :]"}{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat | awk '!_[$0]++'
+awk '-F[/ :]+' '{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat | awk '!_[$0]++'
 ```
 
 compare this to:
 
 ```
-awk '{FS="[/ :]"}{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat | uniq
+awk '-F[/ :]+' '{if (NR > 1 && $10 <= 10) print $3}' earthquakes.dat | uniq
 ```
 
 ## `sed`
