@@ -50,6 +50,19 @@
         "website": "<a href='http://minisciencegirl.github.io/studyGroup/'>Vancouver R Study Group</a>"
       }
     },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-79.39566,43.66289] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "University of Toronto Study Group",
+        "website": "<a href='http://mbonsma.github.io/studyGroup/'>Vancouver R Study Group</a>"
+      }
+    },
         {
       "type": "Feature",
       "geometry": { 
