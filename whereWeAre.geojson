@@ -109,6 +109,19 @@
         "name": "Cape R User's Group",
         "website": "<a href='https://caperuser.wordpress.com/'>Cape R User's Group</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-123.24997,49.26747] 
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Data Open Space Chicago",
+        "website": "<a href='http://dataopenspace.github.io/studyGroup/'>Data Open Space</a>"
+      }
     }
   ]
 }
