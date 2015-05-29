@@ -1,0 +1,3 @@
+[submodule "pythonPackageLesson"]
+	path = pythonPackageLesson
+	url = https://github.com/BillMills/pythonPackageLesson.git
