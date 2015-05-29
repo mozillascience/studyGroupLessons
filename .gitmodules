@@ -7,3 +7,6 @@
 [submodule "python-mapping"]
 	path = python-mapping
 	url = https://github.com/BillMills/python-mapping.git
+[submodule "shell-scheduling"]
+	path = shell-scheduling
+	url = https://github.com/BillMills/shell-scheduling.git
