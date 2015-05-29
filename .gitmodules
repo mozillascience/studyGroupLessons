@@ -1,3 +1,6 @@
 [submodule "pythonPackageLesson"]
 	path = pythonPackageLesson
 	url = https://github.com/BillMills/pythonPackageLesson.git
+[submodule "awk-lesson"]
+	path = awk-lesson
+	url = https://github.com/BillMills/awk-lesson.git
