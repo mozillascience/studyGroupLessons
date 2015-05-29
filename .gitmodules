@@ -10,3 +10,9 @@
 [submodule "shell-awk"]
 	path = shell-awk
 	url = https://github.com/BillMills/awk-lesson.git
+[submodule "R-dplyr-magrittr"]
+	path = R-dplyr-magrittr
+	url = https://github.com/ksamuk/dplyr_magrittr_demo.git
+[submodule "R-loops"]
+	path = R-loops
+	url = https://github.com/rozdakin/R_loops_demo
