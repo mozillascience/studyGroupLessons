@@ -29,7 +29,56 @@ Have a look in the template directory of this repository for some more details.
 
 ### Contribution Guidelines
 
-Contributing a study group lesson here is simple - just copy the `template` directory, give it a descriptive name, and fill out the `lesson.md` file with your lesson. Be sure to include lots of problems for students to work on, and put any examples or data they'll need in the same directory.
+If you'd like to contribute a new lesson, write it up in a new repo following these guidelines:
+ - put the lesson script in `README.md`, with your name, subject area and lesson topic at the top.
+ - make sure to include an open source `LICENSE` file.
+ - make sure all data / examples / figures / anything else you want are all included in your repo.
+ - Here's an [example](https://github.com/BillMills/pythonPackageLesson) of all that.
+
+Then, add your repo to this one as a Submodule.
+
+#### Using Submodules
+
+Submodules are super handy for making a loose federation of resources like these, but are relatively rarely used; here's a primer.
+
+##### Adding a new lesson
+
+In this repo, do
+
+```
+git submodule add <url of your new lesson repo>
+```
+
+then commit, push and pull request as usual. That's it!
+
+##### Pulling down lessons locally
+
+Clone this repo as usual:
+
+```
+git clone https://github.com/mozillascience/studyGroupLessons
+```
+
+You'll see directories for all the different lessons, but they'll be empty. Tell git you're going to be using submodules (only need to do this once for this project):
+
+```
+git submodule init
+```
+
+Then, you can pull down individual submodules like so (replace `awk-lesson` with the name of the submodule you want):
+
+```
+git submodule update awk-lesson
+```
+
+Finally, pull down new changes to lessons in future via:
+
+```
+git pull upstream master
+git submodule update awk-lesson
+```
+
+#### Need Help?
 
 **Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
 
