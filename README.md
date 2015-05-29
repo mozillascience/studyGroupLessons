@@ -78,6 +78,14 @@ git pull upstream master
 git submodule update awk-lesson
 ```
 
+##### Updating Submodule Pointers
+
+(Note: maintainers of this repo will do this automatically regularly - contributors shouldn't need to do this)
+
+```
+git submodule update --remote
+```
+
 #### Need Help?
 
 **Not comfortable with Markdown or Git?** That's ok! If Markdown isn't your thing, just cut and paste your notes into a plain text file, and we'll help you format them; if you're unsure of git, open a new [issue](https://github.com/mozillascience/studyGroupLessons/issues) and we'll help get you included.
