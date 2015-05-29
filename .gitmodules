@@ -4,3 +4,6 @@
 [submodule "awk-lesson"]
 	path = awk-lesson
 	url = https://github.com/BillMills/awk-lesson.git
+[submodule "python-mapping"]
+	path = python-mapping
+	url = https://github.com/BillMills/python-mapping.git
