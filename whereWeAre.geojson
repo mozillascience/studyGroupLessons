@@ -122,6 +122,19 @@
         "name": "Data Open Space Chicago",
         "website": "<a href='http://dataopenspace.github.io/studyGroup/'>Data Open Space</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-122.92124,49.27958]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "SFU Scientific Programming Study Group",
+        "website": "<a href='https://ttimbers.github.io/studyGroup/'>SFU Scientific Programming Study Group</a>"
+      }
     }
   ]
 }
