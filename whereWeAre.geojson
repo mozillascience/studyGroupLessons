@@ -135,6 +135,19 @@
         "name": "SFU Scientific Programming Study Group",
         "website": "<a href='https://ttimbers.github.io/studyGroup/'>SFU Scientific Programming Study Group</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [91.90399,24.91193]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Sylhet Engineering College Study Group",
+        "website": "<a href='http://sylhet-engineering-college.github.io/studyGroup/'>SEC Study Group</a>"
+      }
     }
   ]
 }
