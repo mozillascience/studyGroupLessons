@@ -148,6 +148,19 @@
         "name": "Sylhet Engineering College Study Group",
         "website": "<a href='http://sylhet-engineering-college.github.io/studyGroup/'>SEC Study Group</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [91.87139,24.89778]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Mozilla Science Study Group in Bangladesh",
+        "website": "<a href='http://softowaha.github.io/studyGroup/'>Mozilla Science Study Group in Bangladesh</a>"
+      }
     }
   ]
 }
