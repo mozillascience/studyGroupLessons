@@ -16,3 +16,6 @@
 [submodule "R-loops"]
 	path = R-loops
 	url = https://github.com/rozdakin/R_loops_demo
+[submodule "python-testing"]
+	path = python-testing
+	url = https://github.com/BillMills/python-testing.git
