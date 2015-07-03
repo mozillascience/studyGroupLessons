@@ -46,10 +46,10 @@ Submodules are super handy for making a loose federation of resources like these
 In this repo, do
 
 ```
-git submodule add <url of your new lesson repo>
+git submodule add <url of your new lesson repo> <name to use for this lesson>
 ```
 
-then commit, push and pull request as usual. That's it!
+then commit, push and pull request as usual. That's it! Please prefix the name of the submodule with the relevant language or technology, like `R-`, `python-` etc.
 
 ##### Pulling down lessons locally
 

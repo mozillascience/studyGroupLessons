@@ -19,3 +19,6 @@
 [submodule "python-testing"]
 	path = python-testing
 	url = https://github.com/BillMills/python-testing.git
+[submodule "R-creating-packages"]
+	path = R-creating-packages
+	url = https://github.com/kazi11/TestPackage.git
