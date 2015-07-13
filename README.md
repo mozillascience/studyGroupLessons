@@ -1,6 +1,6 @@
 # Mozilla Study Group Lessons
 
-Let's build a collection of introductory lessons for short tutorials on scientific coding and data management people can deliver to a study group in their labs and departments.
+Let's build a collection of introductory lessons for short tutorials on scientific coding, writing, data management and anything else connected to open science, that people can deliver to a Study Group in their labs and departments.
 
 ### What's a Mozilla Study Group and How do I Start One?
 
