@@ -25,3 +25,6 @@
 [submodule "R-ggplotVSlattice"]
 	path = R-ggplotVSlattice
 	url = https://github.com/lmguzman/ggplotVslattice.git
+[submodule "R-tidyr_reshape2"]
+	path = R-tidyr_reshape2
+	url = https://github.com/remi-daigle/tidyr_reshape2_lesson.git
