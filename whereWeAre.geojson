@@ -92,6 +92,19 @@
         "name": "UMD R User's Group",
         "website": "<a href='http://umd-r-users.github.io/studyGroup/'>UMD R User's Group</a>"
       }
+    },
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [80.02310,9.68515]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Advanced Java Study Group",
+        "website": "<a href='http://nifrasismail.github.io/studyGroup/'>Advanced Java Study Group</a>"
+      }
     }
   ]
 }
