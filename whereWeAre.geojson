@@ -93,7 +93,7 @@
         "website": "<a href='http://umd-r-users.github.io/studyGroup/'>UMD R User's Group</a>"
       }
     },
-      {
+    {
       "type": "Feature",
       "geometry": { 
         "type": "Point", 
@@ -105,6 +105,20 @@
         "name": "Open Desk Study Group",
         "website": "<a href='http://nifrasismail.github.io/studyGroup/'>Open Desk Study Group</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-93.22773,44.97399]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Univeristiy of Minnesota Hacky Hour",
+        "website": "<a href='http://schae234.github.io/studyGroup/'>UMN Hacky Hour</a>"
+      }
     }
+    
   ]
 }
