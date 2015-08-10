@@ -28,3 +28,15 @@
 [submodule "R-tidyr_reshape2"]
 	path = R-tidyr_reshape2
 	url = https://github.com/remi-daigle/tidyr_reshape2_lesson.git
+[submodule "go-intro"]
+	path = go-intro-bengali/
+	url = https://github.com/bolaram/Go-Language-in-Bengali.git
+[submodule "python-intro-bengali"]
+	path = python-intro-bengali
+	url = https://github.com/mozillascience/studyGroupLessons.git
+[submodule "git-intro-bengali"]
+	path = git-intro-bengali
+	url = https://github.com/bolaram/Git-Bengali-Tutorial.git
+[submodule "django-intro-bengali"]
+	path = django-intro-bengali
+	url = https://github.com/bolaram/Django-in-Bengali.git
