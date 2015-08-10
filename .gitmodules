@@ -40,3 +40,6 @@
 [submodule "django-intro-bengali"]
 	path = django-intro-bengali
 	url = https://github.com/bolaram/Django-in-Bengali.git
+[submodule "go-intro-bengali"]
+	path = go-intro-bengali
+	url = https://github.com/bolaram/Go-Language-in-Bengali.git
