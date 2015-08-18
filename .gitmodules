@@ -43,3 +43,6 @@
 [submodule "go-intro-bengali"]
 	path = go-intro-bengali
 	url = https://github.com/bolaram/Go-Language-in-Bengali.git
+[submodule "python-pandas"]
+	path = python-pandas
+	url = https://github.com/nsoontie/pythonPandasLesson
