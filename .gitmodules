@@ -46,3 +46,6 @@
 [submodule "python-pandas"]
 	path = python-pandas
 	url = https://github.com/nsoontie/pythonPandasLesson
+[submodule "R-biomaRt"]
+	path = R-biomaRt
+	url = https://github.com/kazi11/biomaRt_tutorial.git
