@@ -131,6 +131,20 @@
         "name": "Otago Study Group",
         "website": "<a href='http://smilefreak.github.io/studyGroup/'>Otago Study Group</a>"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [25.60864,-25.82617]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Genomics Hacky Hour",
+        "website": "<a href='http://anelda.github.io/GenomicsHackyHour/'>Genomics Hacky Hour</a>"
+      }
     }
     
   ]
