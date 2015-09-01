@@ -118,6 +118,19 @@
         "name": "Univeristiy of Minnesota Hacky Hour",
         "website": "<a href='http://schae234.github.io/studyGroup/'>UMN Hacky Hour</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [170.51386,-45.86510]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Otago Study Group",
+        "website": "<a href='http://smilefreak.github.io/studyGroup/'>Otago Study Group</a>"
+      }
     }
     
   ]
