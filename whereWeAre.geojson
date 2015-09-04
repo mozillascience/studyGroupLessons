@@ -145,6 +145,20 @@
         "name": "Genomics Hacky Hour",
         "website": "<a href='http://anelda.github.io/GenomicsHackyHour/'>Genomics Hacky Hour</a>"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [10.17909,36.82366]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Institut Pasteur de Tunis Study Group",
+        "website": "<a href='http://amelgh.github.io/IPT_Tunisia/'>Institut Pasteur de Tunis</a>"
+      }
     }
     
   ]
