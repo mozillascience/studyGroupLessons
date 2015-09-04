@@ -159,6 +159,20 @@
         "name": "Institut Pasteur de Tunis Study Group",
         "website": "<a href='http://amelgh.github.io/IPT_Tunisia/'>Institut Pasteur de Tunis Study Group</a>"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-64.36682,45.08857]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "R-Bar Scientific Programming Study Group at Acadia",
+        "website": "<a href='http://remi-daigle.github.io/studyGroup/'>R-Bar Scientific Programming Study Group at Acadia</a>"
+      }
     }
     
   ]
