@@ -173,6 +173,20 @@
         "name": "R-Bar Scientific Programming Study Group at Acadia",
         "website": "<a href='http://remi-daigle.github.io/studyGroup/'>R-Bar Scientific Programming Study Group at Acadia</a>"
       }
+    },
+    
+    {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-71.10540,42.35050]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "R-Bar Scientific Programming Study Group at Acadia",
+        "website": "<a href='http://tomhohenstein.com/studyGroup/'>Boston University Study Group</a>"
+      }
     }
     
   ]
