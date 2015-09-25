@@ -49,3 +49,9 @@
 [submodule "R-biomaRt"]
 	path = R-biomaRt
 	url = https://github.com/kazi11/biomaRt_tutorial.git
+[submodule "GIS_mapping_in_R"]
+	path = GIS_mapping_in_R
+	url = https://github.com/remi-daigle/GIS_mapping_in_R.git
+[submodule "R-GIS-Mapping"]
+	path = R-GIS-Mapping
+	url = https://github.com/remi-daigle/GIS_mapping_in_R.git
