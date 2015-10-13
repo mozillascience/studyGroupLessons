@@ -187,6 +187,20 @@
         "name": "Boston University Study Group",
         "website": "<a href='http://study.bu.edu/'>Boston University Study Group</a>"
       }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-41.7468043, -22.334081]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "GER NUPEM/UFRJ",
+        "website": "<a href='http://gabano.github.io/studyGroup/'>GER NUPEM/UFRJ</a>"
+      }
     }
     
   ]
