@@ -201,7 +201,50 @@
         "name": "GER NUPEM/UFRJ",
         "website": "<a href='http://gabano.github.io/studyGroup/'>GER NUPEM/UFRJ</a>"
       }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [144.960913,-37.7997406]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "University of Melbourne Hacky Hour",
+        "website": "<a href='http://melbourne.resbaz.edu.au/hackyhour'>University of Melbourne Hacky Hour</a>"
+      }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [145.0367723, -37.822149]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Swinburne Hacker Within",
+        "website": "<a href='http://www.thehackerwithin.org/swinburne/'>Swinburne Hacker Within</a>"
+      }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [152.997996, -27.4982493]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "St. Lucia Hacky Hour",
+        "website": "<a href='http://samhames.github.io/hackyhour-stlucia/about/'>St. Lucia Hacky Hour</a>"
+      }
     }
+    
     
   ]
 }
