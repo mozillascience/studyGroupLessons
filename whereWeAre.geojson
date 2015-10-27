@@ -243,6 +243,20 @@
         "name": "St. Lucia Hacky Hour",
         "website": "<a href='http://samhames.github.io/hackyhour-stlucia/about/'>St. Lucia Hacky Hour</a>"
       }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [153.0508361,-27.5535983]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Griffith University Hacky Hour",
+        "website": "<a href='https://hackyhourgriffith.wordpress.com/'>Griffith University Hacky Hour</a>"
+      }
     }
     
     
