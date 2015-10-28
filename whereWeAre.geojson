@@ -257,6 +257,20 @@
         "name": "Griffith University Hacky Hour",
         "website": "<a href='https://hackyhourgriffith.wordpress.com/'>Griffith University Hacky Hour</a>"
       }
+    },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [174.7669186,-36.8523378]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Hacky Hour @ Auckland",
+        "website": "<a href='http://uoa-eresearch.github.io/HackyHour/'>Hacky Hour @ Auckland</a>"
+      }
     }
     
     
