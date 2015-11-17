@@ -31,9 +31,6 @@
 [submodule "go-intro"]
 	path = go-intro-bengali/
 	url = https://github.com/bolaram/Go-Language-in-Bengali.git
-[submodule "python-intro-bengali"]
-	path = python-intro-bengali
-	url = https://github.com/mozillascience/studyGroupLessons.git
 [submodule "git-intro-bengali"]
 	path = git-intro-bengali
 	url = https://github.com/bolaram/Git-Bengali-Tutorial.git
@@ -55,3 +52,6 @@
 [submodule "R-GIS-Mapping"]
 	path = R-GIS-Mapping
 	url = https://github.com/remi-daigle/GIS_mapping_in_R.git
+[submodule "python-intro-bengali"]
+	path = python-intro-bengali
+	url = https://github.com/bolaram/Python-in-Bengali.git
