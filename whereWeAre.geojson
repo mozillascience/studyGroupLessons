@@ -284,6 +284,19 @@
         "marker-color": "#FBA026",
         "name": "Ecological Genomics at U of C",
         "website": "<a href='http://jvamosi.github.io/studyGroup/'>Ecological Genomics at U of C</a>"
+      },
+  
+      {
+      "type": "Feature",
+      "geometry": { 
+        "type": "Point", 
+        "coordinates": [-71.5344097,41.4861953]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Rhody R Stats",
+        "website": "<a href='http://rhodyrstats.org/'>Rhody R Stats</a>"
       }
     }
     
