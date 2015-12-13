@@ -1,12 +1,14 @@
 {
   "type": "FeatureCollection",
   "features": [
-
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-123.24997,49.26747] 
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.24997,
+          49.26747
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -17,9 +19,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-79.39566,43.66289] 
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.39566,
+          43.66289
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -30,9 +35,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-87.62980,41.87811] 
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.62980,
+          41.87811
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -43,9 +51,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-122.92124,49.27958]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.92124,
+          49.27958
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -56,9 +67,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [91.90399,24.91193]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.90399,
+          24.91193
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -69,9 +83,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [91.87139,24.89778]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.87139,
+          24.89778
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -82,9 +99,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-76.94255,38.98692]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.94255,
+          38.98692
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -95,9 +115,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [80.02310,9.68515]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.02310,
+          9.68515
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -108,9 +131,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-93.22773,44.97399]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.22773,
+          44.97399
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -121,9 +147,12 @@
     },
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [170.51386,-45.86510]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.51386,
+          -45.86510
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -132,12 +161,14 @@
         "website": "<a href='http://smilefreak.github.io/studyGroup/'>Otago Study Group</a>"
       }
     },
-    
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [25.60864,-25.82617]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.60864,
+          -25.82617
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -146,12 +177,14 @@
         "website": "<a href='http://anelda.github.io/GenomicsHackyHour/'>Genomics Hacky Hour</a>"
       }
     },
-    
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [10.17909,36.82366]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.17909,
+          36.82366
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -160,12 +193,14 @@
         "website": "<a href='http://amelgh.github.io/IPT_Tunisia/'>Institut Pasteur de Tunis Study Group</a>"
       }
     },
-    
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-64.36682,45.08857]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.36682,
+          45.08857
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -174,12 +209,14 @@
         "website": "<a href='http://remi-daigle.github.io/studyGroup/'>R-Bar Scientific Programming Study Group at Acadia</a>"
       }
     },
-    
     {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-71.10540,42.35050]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.10540,
+          42.35050
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -188,12 +225,14 @@
         "website": "<a href='http://study.bu.edu/'>Boston University Study Group</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-41.7468043, -22.334081]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -41.7468043,
+          -22.334081
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -202,12 +241,14 @@
         "website": "<a href='http://gabano.github.io/studyGroup/'>GER NUPEM/UFRJ</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [144.960913,-37.7997406]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.960913,
+          -37.7997406
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -216,12 +257,14 @@
         "website": "<a href='http://melbourne.resbaz.edu.au/hackyhour'>University of Melbourne Hacky Hour</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [145.0367723, -37.822149]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0367723,
+          -37.822149
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -230,12 +273,14 @@
         "website": "<a href='http://www.thehackerwithin.org/swinburne/'>Swinburne Hacker Within</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [152.997996, -27.4982493]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.997996,
+          -27.4982493
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -244,12 +289,14 @@
         "website": "<a href='http://samhames.github.io/hackyhour-stlucia/about/'>St. Lucia Hacky Hour</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [153.0508361,-27.5535983]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0508361,
+          -27.5535983
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -258,12 +305,14 @@
         "website": "<a href='https://hackyhourgriffith.wordpress.com/'>Griffith University Hacky Hour</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [174.7669186,-36.8523378]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7669186,
+          -36.8523378
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -272,25 +321,30 @@
         "website": "<a href='http://uoa-eresearch.github.io/HackyHour/'>Hacky Hour @ Auckland</a>"
       }
     },
-  
-      {
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-114.1379894,51.0781599]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1379894,
+          51.0781599
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
         "marker-color": "#FBA026",
         "name": "Ecological Genomics at U of C",
         "website": "<a href='http://jvamosi.github.io/studyGroup/'>Ecological Genomics at U of C</a>"
-      },
-  
-      {
+      }
+    },
+    {
       "type": "Feature",
-      "geometry": { 
-        "type": "Point", 
-        "coordinates": [-71.5344097,41.4861953]
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.5344097,
+          41.4861953
+        ]
       },
       "properties": {
         "marker-symbol": "chemist",
@@ -299,7 +353,5 @@
         "website": "<a href='http://rhodyrstats.org/'>Rhody R Stats</a>"
       }
     }
-    
-    
   ]
 }
