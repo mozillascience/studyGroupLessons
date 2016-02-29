@@ -352,6 +352,22 @@
         "name": "Rhody R Stats",
         "website": "<a href='http://rhodyrstats.org/'>Rhody R Stats</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.05512,
+          46.23111
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "CERN Study Group",
+        "website": "<a href='http://cernstudygroup.github.io/'>CERN Study Group</a>"
+      }
     }
   ]
 }
