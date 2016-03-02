@@ -368,6 +368,22 @@
         "name": "CERN Study Group",
         "website": "<a href='http://cernstudygroup.github.io/'>CERN Study Group</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8908473,
+          -32.0048041
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Curtin University Hacky Hour",
+        "website": "<a href='http://cuhackyhour.github.io/'>Curtin University Hacky Hour</a>"
+      }
     }
   ]
 }
