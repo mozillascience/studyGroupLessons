@@ -55,3 +55,6 @@
 [submodule "python-intro-bengali"]
 	path = python-intro-bengali
 	url = https://github.com/bolaram/Python-in-Bengali.git
+[submodule "git-studygroup-intro"]
+	path = git-studygroup-intro
+	url = https://github.com/TomKellyGenetics/git-studygroup-intro
