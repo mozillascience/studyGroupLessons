@@ -262,6 +262,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          32.559899,
+          15.500654
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Khartoum NGS group",
+        "website": "<a href='http://zo0z.github.io/studyGroup/'>Khartoum NGS group</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           145.0367723,
           -37.822149
         ]
