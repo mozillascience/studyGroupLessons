@@ -58,3 +58,6 @@
 [submodule "git-studygroup-intro"]
 	path = git-studygroup-intro
 	url = https://github.com/TomKellyGenetics/git-studygroup-intro
+[submodule "R-data-table"]
+	path = R-data-table
+	url = git@github.com:TomKellyGenetics/syska-R-data-table.git
