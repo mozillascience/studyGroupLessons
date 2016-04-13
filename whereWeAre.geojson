@@ -401,5 +401,21 @@
         "website": "<a href='http://cuhackyhour.github.io/'>Curtin University Hacky Hour</a>"
       }
     }
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.4208, 
+          -119.6982,
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "University of California, Santa Barbara eco-data-science",
+        "website": "<a href='http://eco-data-science.github.io/'>UCSB eco-data-science</a>"
+      }
+    }
   ]
 }
