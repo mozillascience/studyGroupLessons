@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -68.196586,
+          44.366245
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "JAX Lab Study Group - ME/CT",
+        "website": "<a href='https://github.com/smcclatchy/studyGroup'>JAX Lab Study Group</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.39566,
           43.66289
         ]
