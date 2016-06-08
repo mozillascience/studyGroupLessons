@@ -38,6 +38,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -122.419416,
+          37.774929
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Women in GeoViz",
+        "website": "<a href='https://github.com/colleenboodleman/Womens-GeoViz-StudyGroup'>GeoViz Study Group</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -79.39566,
           43.66289
         ]
