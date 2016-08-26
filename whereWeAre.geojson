@@ -22,6 +22,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          72.571362,
+          23.022505
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Mozilla Gujarat Study Group - Ahmedabad",
+        "website": "<a href='https://github.com/drashti4/studyGroup/'>Gujarat Study Group</a>"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -68.196586,
           44.366245
         ]
