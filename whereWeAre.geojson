@@ -18,6 +18,25 @@
       }
     },
     {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.955832,
+          11.016844
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "Coimbatore Study Group",
+        "website": "<a href='https://foxiot.github.io/studyGroup/'>IoT Research Group</a>"
+      }
+    },
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
