@@ -1,4 +1,4 @@
-#SUMBIT A LESSON
+#SUBMIT A LESSON
 
 **Title:** *Lesson Title*
 
@@ -12,11 +12,11 @@
 
 **SHORT Summary/Context/Objectives:** *In this section, include WHAT this lesson will enable you to do/applications for this tool or skill.* 
 
-##USE the tags for level: *beginner, intermediate, advanced.* These categories are very general, but combined with the prerequisites they should give a sense of the skill level involved, so users can decide if this lesson is right for them.*
+*USE the tags for level: beginner, intermediate, advanced.* These categories are very general, but combined with the prerequisites they should give a sense of the skill level involved, so users can decide if this lesson is right for them.*
 
-##USE the tags for topic: *select from the list, ie: Genomics, bioinformatics, etc* If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
+*USE the tags for topic: select from the list, ie: Genomics, bioinformatics, etc* If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
 
-##USE the tags for langauge: *select from the lis for your languge. 
+*USE the tags for langauge: *select from the list for your languge. 
 
 #OR SUBMIT A RESOURCE
 
@@ -24,8 +24,9 @@
 
 **SHORT Summary/Context/Objectives:** *In this section, include WHAT this lesson will enable you to do/applications for this tool or skill.* 
 
-##USE the tags for level: *beginner, intermediate, advanced.* These categories are very general, but combined with the prerequisites they should give a sense of the skill level involved, so users can decide if this lesson is right for them.*
+*USE the tags for level: beginner, intermediate, advanced.* These categories are very general, but combined with the prerequisites they should give a sense of the skill level involved, so users can decide if this lesson is right for them.*
 
-##USE the tags for topic: *select from the list, ie: Genomics, bioinformatics, etc* If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
+*USE the tags for topic: select from the list, ie: Genomics, bioinformatics, etc* If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
 
-##USE the tags for langauge: *select from the lis for your languge. 
+*USE the tags for langauge: *select from the list for your languge. 
+
