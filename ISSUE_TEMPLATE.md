@@ -10,12 +10,12 @@
 
 **SHORT Summary/Context/Objectives:** *include WHAT this lesson will enable you to do/applications for this tool or skill.* 
 
-**USE the tags for level, topic, and language:** *select from the list. If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
+**USE the tags for level, topic, and language:** *select from the list. If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.*
 
 # OR SUBMIT A RESOURCE
 
 **Title:** *Resource Title*
 
-**SHORT Summary/Context/Objectives:** *include WHAT this lesson will enable you to do/applications for this tool or skill. 
+**SHORT Summary/Context/Objectives:** *include WHAT this lesson will enable you to do/applications for this tool or skill.*
 
-**USE the tags for level, topic, and language:** *select from the list. If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.
+**USE the tags for level, topic, and language:** *select from the list. If your field/topic is not listed, comment @auremoser or @zee-moz to have a new tag added.*
