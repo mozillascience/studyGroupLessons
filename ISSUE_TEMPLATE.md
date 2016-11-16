@@ -20,7 +20,7 @@
 
 **Title:** *Resource Title*
 
-**SHORT Summary/Context/Objectives:** *nclude WHAT this lesson will enable you to do/applications for this tool or skill. 
+**SHORT Summary/Context/Objectives:** include WHAT this lesson will enable you to do/applications for this tool or skill. 
 
 **USE the tags for level:** beginner, intermediate, advanced.
 
