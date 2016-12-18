@@ -1,0 +1,6 @@
+---
+- hosts: local
+  tasks:
+   - name: Install Pillow
+     pip : 
+       name : Pillow
