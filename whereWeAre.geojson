@@ -479,6 +479,22 @@
         "name": "University of California, Santa Barbara eco-data-science",
         "website": "<a href='http://eco-data-science.github.io/'>UCSB eco-data-science</a>"
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.118788, 
+          28.732743
+        ]
+      },
+      "properties": {
+        "marker-symbol": "chemist",
+        "marker-color": "#FBA026",
+        "name": "SSCBS Study Group, Delhi",
+        "website": "<a href='http://sambhav2612.github.io/studyGroup'>SSCBS Study Group</a>"
+      }
     }
   ]
 }
